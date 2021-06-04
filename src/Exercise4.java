@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 public class Exercise4 {
-    public static void main(String[] args){
+    public static void main(String[] args){ //Creates an very basic adlib. 
         Scanner scan = new Scanner(System.in);
 
         System.out.print("Enter an adjective (Present Tense) : ");
